@@ -1,0 +1,7 @@
+[{
+    "user": "_id",
+    "task_name": "string",
+    "time_completed": "datetime",
+    "points": 0,
+    "hidden": false
+}]

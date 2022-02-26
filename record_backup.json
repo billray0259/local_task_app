@@ -1,0 +1,2326 @@
+[
+ {
+  "_id": {
+   "$oid": "601c49383082e1380b25c446"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Pick up Attic",
+  "time_completed": {
+   "$date": 1612448488108
+  },
+  "points": 1.0149457738010936,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601c4fc83082e1380b25c447"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612450168307
+  },
+  "points": 0.9326346272746271,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601cb4b13082e1380b25c449"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612476001730
+  },
+  "points": 0.7332158208991713,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601cc15d3082e1380b25c44a"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612479245488
+  },
+  "points": 0.11285193255754455,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601cc15d3082e1380b25c44b"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612479245488
+  },
+  "points": 0.11285193255754455,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601d4de43082e1380b25c44f"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612515220445
+  },
+  "points": 0.6453677535282233,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601d6eb43082e1380b25c450"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1612523620793
+  },
+  "points": 0.35139581322574726,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601d6eb43082e1380b25c451"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1612523620793
+  },
+  "points": 0.35139581322574726,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601da9623082e1380b25c452"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1612538642521
+  },
+  "points": 0.35046905648309506,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601dfb323082e1380b25c453"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612559586816
+  },
+  "points": 0.10331621118467864,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601dfb323082e1380b25c454"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612559586816
+  },
+  "points": 0.10331621118467864,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601dfb323082e1380b25c455"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612559586816
+  },
+  "points": 0.10331621118467864,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601dfb3d3082e1380b25c456"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612559597854
+  },
+  "points": 0.1821534942972208,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e00ea3082e1380b25c457"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612561050328
+  },
+  "points": 0.2795682270613357,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e00ea3082e1380b25c458"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612561050328
+  },
+  "points": 0.2795682270613357,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e00ea3082e1380b25c459"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612561050328
+  },
+  "points": 0.2795682270613357,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e00ea3082e1380b25c45a"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612561050328
+  },
+  "points": 0.2795682270613357,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e00ea3082e1380b25c45b"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612561050328
+  },
+  "points": 0.2795682270613357,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e9e6c3082e1380b25c45c"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clean Kitchen floors",
+  "time_completed": {
+   "$date": 1612601372458
+  },
+  "points": 0.28497113036530025,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e9e6c3082e1380b25c45d"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen floors",
+  "time_completed": {
+   "$date": 1612601372458
+  },
+  "points": 0.28497113036530025,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601e9e953082e1380b25c45e"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612601413092
+  },
+  "points": 0.6589390039131983,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601ea3543082e1380b25c45f"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty office trash can",
+  "time_completed": {
+   "$date": 1612602628789
+  },
+  "points": 0.3640990743808674,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601eedd03082e1380b25c460"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1612621696233
+  },
+  "points": 0.5717913046441476,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f0a1b3082e1380b25c461"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1612628939266
+  },
+  "points": 0.4259553085252105,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f0a283082e1380b25c462"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612628952802
+  },
+  "points": 0.15720790193934372,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f0a8c3082e1380b25c463"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612629052148
+  },
+  "points": 0.1617797195078177,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f0a8c3082e1380b25c464"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612629052148
+  },
+  "points": 0.1617797195078177,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f0a8c3082e1380b25c465"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612629052148
+  },
+  "points": 0.1617797195078177,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f67d83082e1380b25c466"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612652936192
+  },
+  "points": 0.391247939448998,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f67d83082e1380b25c467"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612652936192
+  },
+  "points": 0.391247939448998,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f67d83082e1380b25c468"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612652936192
+  },
+  "points": 0.391247939448998,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f79143082e1380b25c469"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1612657348239
+  },
+  "points": 0.2734128337001111,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f791b3082e1380b25c46a"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612657355873
+  },
+  "points": 0.03218005119443869,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601f791b3082e1380b25c46b"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612657355873
+  },
+  "points": 0.03218005119443869,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "601ffc463082e1380b25c46c"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty upstairs bathroom trash can",
+  "time_completed": {
+   "$date": 1612690934849
+  },
+  "points": 0.41227397957836526,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60208ce13082e1380b25c46e"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612727953497
+  },
+  "points": 0.4227820703979033,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6020ca4a3bf0f73134c2333c"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out big black trash can",
+  "time_completed": {
+   "$date": 1612743674036
+  },
+  "points": 1.3805225157053966,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602163be3bf0f73134c2333d"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Bring back big black trash can",
+  "time_completed": {
+   "$date": 1612782958674
+  },
+  "points": 0.868842046284548,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602163c43bf0f73134c2333e"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612782964765
+  },
+  "points": 0.3842982252921191,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60216a2c3bf0f73134c2333f"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Vacuum attic",
+  "time_completed": {
+   "$date": 1612784604575
+  },
+  "points": 1.1807584564590237,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6021f5203bf0f73134c23340"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1612820176988
+  },
+  "points": 0.1770616699290856,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6021f5203bf0f73134c23341"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1612820176988
+  },
+  "points": 0.1770616699290856,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221af43bf0f73134c23342"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612829860704
+  },
+  "points": 0.4520512038006593,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221af43bf0f73134c23343"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612829860704
+  },
+  "points": 0.4520512038006593,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221af43bf0f73134c23344"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612829860704
+  },
+  "points": 0.4520512038006593,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221af43bf0f73134c23345"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612829860704
+  },
+  "points": 0.4520512038006593,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221af43bf0f73134c23346"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1612829860704
+  },
+  "points": 0.4520512038006593,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b023bf0f73134c23347"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612829874626
+  },
+  "points": 0.17103501186418818,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b023bf0f73134c23348"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612829874626
+  },
+  "points": 0.17103501186418818,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b023bf0f73134c23349"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612829874626
+  },
+  "points": 0.17103501186418818,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b023bf0f73134c2334a"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612829874626
+  },
+  "points": 0.17103501186418818,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b023bf0f73134c2334b"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1612829874626
+  },
+  "points": 0.17103501186418818,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b253bf0f73134c2334c"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612829909956
+  },
+  "points": 0.13037559016394476,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b253bf0f73134c2334d"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612829909956
+  },
+  "points": 0.13037559016394476,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60221b253bf0f73134c2334e"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1612829909956
+  },
+  "points": 0.13037559016394476,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602317df3bf0f73134c2334f"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1612894607161
+  },
+  "points": 0.5372712701575911,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602317df3bf0f73134c23350"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1612894607161
+  },
+  "points": 0.5372712701575911,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602405323bf0f73134c23351"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612955362539
+  },
+  "points": 0.6021941763501898,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602405323bf0f73134c23352"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1612955362539
+  },
+  "points": 0.6021941763501898,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602561fb3bf0f73134c23353"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613044651351
+  },
+  "points": 0.6238691891966782,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602562c53bf0f73134c23354"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1613044853098
+  },
+  "points": 0.48820030049638274,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602562e73bf0f73134c23355"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1613044887913
+  },
+  "points": 0.7885321177274528,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60269f9d3bf0f73134c23356"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean upstairs toilet rim and top",
+  "time_completed": {
+   "$date": 1613125965416
+  },
+  "points": 1.1375648269279712,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6026a8583bf0f73134c23357"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613128200647
+  },
+  "points": 0.2918781150491573,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6026a8583bf0f73134c23358"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613128200647
+  },
+  "points": 0.2918781150491573,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e0f3bf0f73134c23359"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clean upstairs toilet bowl",
+  "time_completed": {
+   "$date": 1613252543918
+  },
+  "points": 3.2227782335391097,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e173bf0f73134c2335a"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clear out fridge",
+  "time_completed": {
+   "$date": 1613252551957
+  },
+  "points": 3.2310384710398217,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e1a3bf0f73134c2335b"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1613252554384
+  },
+  "points": 0.958356895695245,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e203bf0f73134c2335c"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Vacuume upstairs hallway",
+  "time_completed": {
+   "$date": 1613252560914
+  },
+  "points": 0.7932906235850641,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e243bf0f73134c2335d"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1613252564699
+  },
+  "points": 1.9588433729631034,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e263bf0f73134c2335e"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean Kitchen floors",
+  "time_completed": {
+   "$date": 1613252566123
+  },
+  "points": 1.0968644911724952,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e2d3bf0f73134c2335f"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Wash the towels ",
+  "time_completed": {
+   "$date": 1613252573461
+  },
+  "points": 0.7558654373378376,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e2d3bf0f73134c23360"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Wash the towels ",
+  "time_completed": {
+   "$date": 1613252573461
+  },
+  "points": 0.7558654373378376,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e383bf0f73134c23361"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Pick up living room",
+  "time_completed": {
+   "$date": 1613252584455
+  },
+  "points": 1.7558305312462412,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e433bf0f73134c23362"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clear out fridge",
+  "time_completed": {
+   "$date": 1613252595556
+  },
+  "points": 1.077005651870819,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e433bf0f73134c23363"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clear out fridge",
+  "time_completed": {
+   "$date": 1613252595556
+  },
+  "points": 1.077005651870819,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e433bf0f73134c23364"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Clear out fridge",
+  "time_completed": {
+   "$date": 1613252595556
+  },
+  "points": 1.077005651870819,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e453bf0f73134c23365"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1613252597682
+  },
+  "points": 0.9583309705441779,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e493bf0f73134c23366"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613252601236
+  },
+  "points": 0.173737907558075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e493bf0f73134c23367"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613252601236
+  },
+  "points": 0.173737907558075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e493bf0f73134c23368"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613252601236
+  },
+  "points": 0.173737907558075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e493bf0f73134c23369"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613252601236
+  },
+  "points": 0.173737907558075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e493bf0f73134c2336a"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613252601236
+  },
+  "points": 0.173737907558075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e743bf0f73134c2336b"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Reorganize pantry",
+  "time_completed": {
+   "$date": 1613252644209
+  },
+  "points": 0.8602514644886368,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e743bf0f73134c2336c"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Reorganize pantry",
+  "time_completed": {
+   "$date": 1613252644209
+  },
+  "points": 0.8602514644886368,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60288e743bf0f73134c2336d"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Vacuum upstairs to main floor stairs",
+  "time_completed": {
+   "$date": 1613252644767
+  },
+  "points": 0.7715267251809081,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602893ef3bf0f73134c2336f"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1613254047778
+  },
+  "points": 1.6139176138620062,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602897133bf0f73134c23370"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Pick up basement area",
+  "time_completed": {
+   "$date": 1613254851311
+  },
+  "points": 0.693752556073793,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602897133bf0f73134c23371"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Pick up basement area",
+  "time_completed": {
+   "$date": 1613254851311
+  },
+  "points": 0.693752556073793,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602897133bf0f73134c23372"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Pick up basement area",
+  "time_completed": {
+   "$date": 1613254851311
+  },
+  "points": 0.693752556073793,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60294ed83bf0f73134c23373"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1613301896979
+  },
+  "points": 0.5590430737910548,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60294edf3bf0f73134c23374"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1613301903098
+  },
+  "points": 0.4791491683775392,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60294ee33bf0f73134c23375"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613301907607
+  },
+  "points": 0.3444182351457772,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60294eef3bf0f73134c23376"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty downstairs bathroom trash can",
+  "time_completed": {
+   "$date": 1613301919023
+  },
+  "points": 0.34041457354797944,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602987b43bf0f73134c23378"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1613316452183
+  },
+  "points": 2.112975710328217,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602a10ab3bf0f73134c23379"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out big blue recycling bin",
+  "time_completed": {
+   "$date": 1613351515645
+  },
+  "points": 1.4790511546348815,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602a10ad3bf0f73134c2337a"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out big black trash can",
+  "time_completed": {
+   "$date": 1613351517402
+  },
+  "points": 1.4160001432077371,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602a11493bf0f73134c2337b"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1613351673445
+  },
+  "points": 0.230785744577215,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602a55013bf0f73134c2337c"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1613369009605
+  },
+  "points": 0.14997547491191215,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602a55053bf0f73134c2337d"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1613369013378
+  },
+  "points": 0.12855967714181232,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602ad17c3bf0f73134c2337e"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613400876220
+  },
+  "points": 0.7103089980801558,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602bfff03bf0f73134c2337f"
+  },
+  "user": {
+   "$oid": "60161675bd5595f531634fa6"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1613478304958
+  },
+  "points": 1.481375402934643,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602bfff03bf0f73134c23380"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1613478304958
+  },
+  "points": 1.481375402934643,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602c2f7c3bf0f73134c23381"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1613490476063
+  },
+  "points": 0.3233168086048486,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602d44553bf0f73134c23382"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1613561349300
+  },
+  "points": 0.36708059006394217,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602d46013bf0f73134c23383"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Bring back big blue recycling bin",
+  "time_completed": {
+   "$date": 1613561777239
+  },
+  "points": 1.027234437675447,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602d460e3bf0f73134c23384"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613561790509
+  },
+  "points": 0.5740240542592652,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602d460e3bf0f73134c23385"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613561790509
+  },
+  "points": 0.5740240542592652,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602d46123bf0f73134c23386"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1613561794469
+  },
+  "points": 0.4284397805901774,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602e88975701802a7a78bb8f"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613644359299
+  },
+  "points": 0.6342922669185547,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602e8be75701802a7a78bb90"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1613645207523
+  },
+  "points": 0.7350673366799416,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602f35345701802a7a78bb91"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Wash the towels ",
+  "time_completed": {
+   "$date": 1613688548082
+  },
+  "points": 0.7666734256720075,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "602fd8095701802a7a78bb92"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1613730233173
+  },
+  "points": 0.6342922669185547,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603152145701802a7a78bb93"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1613827012385
+  },
+  "points": 0.3952020917808755,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603152195701802a7a78bb94"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1613827017748
+  },
+  "points": 0.5079621019453218,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603153135701802a7a78bb95"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1613827267956
+  },
+  "points": 0.20589887173988602,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6031d050659ee50f33ff9fa3"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Wash shower",
+  "time_completed": {
+   "$date": 1613859328502
+  },
+  "points": 1.4019363848303033,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603345c1303628b3d8331fbc"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out big black trash can",
+  "time_completed": {
+   "$date": 1613954929601
+  },
+  "points": 1.548911858105808,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6034709b303628b3d8331fbd"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Bring back big black trash can",
+  "time_completed": {
+   "$date": 1614031435042
+  },
+  "points": 0.8338951327904369,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603470a7303628b3d8331fbe"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen trash",
+  "time_completed": {
+   "$date": 1614031447895
+  },
+  "points": 0.4882532079999073,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60347f8f303628b3d8331fbf"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614035263169
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60347f8f303628b3d8331fc0"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614035263169
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60347fa2303628b3d8331fc1"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1614035282996
+  },
+  "points": 0.7653110619939767,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60348e00303628b3d8331fc2"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614038960592
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60348e00303628b3d8331fc3"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614038960592
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60350247303628b3d8331fc4"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614068727417
+  },
+  "points": 0.6940054203892878,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603669a0303628b3d8331fc5"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1614160720899
+  },
+  "points": 0.34836349559875823,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6036ade8303628b3d8331fc6"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614178200443
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603704ce303628b3d8331fc7"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614200446806
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603704ce303628b3d8331fc8"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614200446806
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60388a73303628b3d8331fc9"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614300195878
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60388a73303628b3d8331fca"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614300195878
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "60388a86303628b3d8331fcb"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1614300214177
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603921c5303628b3d8331fcc"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614338933354
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603921c5303628b3d8331fcd"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614338933354
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6039dfda303628b3d8331fce"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614387594028
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6039dfda303628b3d8331fcf"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614387594028
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6039dfde303628b3d8331fd0"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1614387598323
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "6039dfde303628b3d8331fd1"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1614387598323
+  },
+  "points": 0.10423689159880462,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603b39d2303628b3d8331fd2"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614476162986
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603b39d5303628b3d8331fd3"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1614476165301
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603bb339303628b3d8331fd4"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1614507241813
+  },
+  "points": 0.34836349559875823,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603bb33e303628b3d8331fd5"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614507246455
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603bb33e303628b3d8331fd6"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614507246455
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603bd52e303628b3d8331fd7"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Make bread",
+  "time_completed": {
+   "$date": 1614515934868
+  },
+  "points": 0.3428668467814243,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d2d79303628b3d8331fd8"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614604073334
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d5648303628b3d8331fd9"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Bring back big black trash can",
+  "time_completed": {
+   "$date": 1614614520415
+  },
+  "points": 0.8338951327904369,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d5649303628b3d8331fda"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Bring back big blue recycling bin",
+  "time_completed": {
+   "$date": 1614614521949
+  },
+  "points": 0.8338951327904369,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d7a4e303628b3d8331fdb"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Pick up game room",
+  "time_completed": {
+   "$date": 1614623742147
+  },
+  "points": 0.7232349449409337,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d7a57303628b3d8331fdc"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean Kitchen surfaces",
+  "time_completed": {
+   "$date": 1614623751357
+  },
+  "points": 1.2060450113243837,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603d7a5a303628b3d8331fdd"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614623754907
+  },
+  "points": 0.6940054203892878,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603dd962303628b3d8331fdf"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out big blue recycling bin",
+  "time_completed": {
+   "$date": 1614648082908
+  },
+  "points": 1.548911858105808,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603dd97f303628b3d8331fe0"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614648111783
+  },
+  "points": 0.20847378319760923,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e68e5303628b3d8331fe1"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614684821076
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e68e5303628b3d8331fe2"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty dishwasher",
+  "time_completed": {
+   "$date": 1614684821076
+  },
+  "points": 0.3470027101946439,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e6b7c303628b3d8331fe3"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1614685484472
+  },
+  "points": 0.17418174779937912,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e6b7c303628b3d8331fe4"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Take out kitchen recycling",
+  "time_completed": {
+   "$date": 1614685484472
+  },
+  "points": 0.17418174779937912,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e6c40303628b3d8331fe5"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Empty downstairs bathroom trash can",
+  "time_completed": {
+   "$date": 1614685680830
+  },
+  "points": 0.24412660399995365,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e6c40303628b3d8331fe6"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Empty downstairs bathroom trash can",
+  "time_completed": {
+   "$date": 1614685680830
+  },
+  "points": 0.24412660399995365,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603e6cd7303628b3d8331fe7"
+  },
+  "user": {
+   "$oid": "6017681edb0da46cae9f863b"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1614685831943
+  },
+  "points": 0.7653110619939767,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603eec29a0420c7043a7993f"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Wash upstairs bathroom rugs",
+  "time_completed": {
+   "$date": 1614718425821
+  },
+  "points": 0.8768486958916776,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603ef8cda0420c7043a79940"
+  },
+  "user": {
+   "$oid": "60176803db0da46cae9f863a"
+  },
+  "task_name": "Wash the towels ",
+  "time_completed": {
+   "$date": 1614721661823
+  },
+  "points": 0.43948671791618094,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603ef8cda0420c7043a79941"
+  },
+  "user": {
+   "$oid": "601c37d47427bde797070d68"
+  },
+  "task_name": "Wash the towels ",
+  "time_completed": {
+   "$date": 1614721661823
+  },
+  "points": 0.43948671791618094,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603f03e7a0420c7043a79942"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Clean stove",
+  "time_completed": {
+   "$date": 1614724503947
+  },
+  "points": 0.7674088501320584,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603f0404a0420c7043a79943"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Start dishwasher",
+  "time_completed": {
+   "$date": 1614724532348
+  },
+  "points": 0.21204904608029745,
+  "hidden": false
+ },
+ {
+  "_id": {
+   "$oid": "603f2768a0420c7043a79944"
+  },
+  "user": {
+   "$oid": "601767f0db0da46cae9f8639"
+  },
+  "task_name": "Turn off lights and lock doors",
+  "time_completed": {
+   "$date": 1614733592424
+  },
+  "points": 0.21204904608029745,
+  "hidden": false
+ }
+]

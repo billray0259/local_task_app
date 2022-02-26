@@ -1,0 +1,5 @@
+db_connection_atlas.txt
+db_connection.txt
+
+backups/
+__pycache__/

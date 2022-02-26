@@ -1,0 +1,14 @@
+[{
+    "name": "string",
+    "username": "string",
+    "salt": "salt",
+    "password": "string",
+    "session_id": "string",
+    "preferences": [{
+        "task": "_id",
+        "preference": 0
+    }],
+    "active": true,
+    "last_activated": "timestamp",
+    "active_seconds": 0
+}]

@@ -1,0 +1,7 @@
+[{
+    "name": "task_name",
+    "desc": "string",
+    "period": 0,
+    "modified_by": "_id",
+    "last_completed": "datetime"
+}]
